@@ -1,0 +1,27 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Python environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+
+# Large datasets
+data/
+dataset/
+train/
+GT/
+NoisyLR/
+
+# Temporary outputs
+outputs/
+predictions/
+val_predictions/
+
+# OS files
+.DS_Store
+Thumbs.db
